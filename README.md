@@ -1,9 +1,6 @@
 # Text To Speech
 
 
-
-[TOC]
-
 ## pyttsx3
 
 **pyttsx3** is a Python library for text-to-speech conversion. It allows developers to add speech synthesis capabilities to their Python applications easily. 
