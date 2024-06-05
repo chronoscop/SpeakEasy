@@ -17,13 +17,15 @@
 pip install pyttsx3
 ```
 
-or you can visit https://pypi.org/project/pyttsx3/
-
 ### Usage
 
  In pyttsx3 folder
 
+### Documentation
+
 more using **API** please visit https://pyttsx3.readthedocs.io/en/latest/engine.html
+
+
 
 ## SAPI
 
@@ -31,9 +33,23 @@ more using **API** please visit https://pyttsx3.readthedocs.io/en/latest/engine.
 
 For SAPI (Speech Application Programming Interface), its functionality can be accessed through the win32com library, which enables text-to-speech (TTS) and speech recognition.
 
+### Installation
+
+You need to install the `pywin32` library to use SAPI's functionalities:
+
+```shell
+pip install pywin32
+```
+
 ### Usage
 
 please see SAPI folder
+
+### Documentation
+
+For more installation information, visit https://pypi.org/project/pywin32/ and https://github.com/mhammond/pywin32
+
+
 
 ##  SpeechLib
 
@@ -46,8 +62,6 @@ please see SAPI folder
 ```shell
 pip install comtypes
 ```
-
-more installation information you can visit https://pypi.org/project/comtypes/
 
 ### Usage
 
