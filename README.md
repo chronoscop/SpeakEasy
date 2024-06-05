@@ -55,9 +55,10 @@ For more installation information, visit https://pypi.org/project/pywin32/ and h
 
 **SpeechLib**, also known as the Microsoft Speech Object Library, is a component of the Microsoft Speech API (SAPI) that provides a COM-based interface for text-to-speech (TTS) and speech recognition (SR) functionality on Windows platforms.
 
-**To use SpeechLib you need to install third-party libraries : comtypes**
 
 ### Installation
+
+**To use SpeechLib you need to install third-party libraries : comtypes**
 
 ```shell
 pip install comtypes
